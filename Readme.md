@@ -3,7 +3,7 @@
 ## Usage of all types of node modules
 In this example we're using all types modules and we're creating our own modules as well. 
 
-# To run this project 
+## To run this project 
 Type `npm install` to get started. 
 
 You can run the 3 code files by typing the following in the terminal: 
